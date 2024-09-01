@@ -1,5 +1,5 @@
-## :pushpin: Self Study
-### 1. C++ Self Study
+## :pushpin: Study
+### 1. C / C++ Study
 >개발자 커뮤니티 웹사이트 (팀 프로젝트)  
 >개발 기간: 2020.10.22 ~ 2020.12.31  
 >
@@ -11,7 +11,7 @@
 
 ---
 
-### 2. [나의 개인 비서, NABI](https://github.com/hayeon17kim/hackathon-project)
+### 2. Data Structure Study
 >일정 관리 콘솔 프로그램 (팀 프로젝트)  
 >개발 기간: 2020.10.21 ~ 2020.10.23  
 >
@@ -22,7 +22,7 @@
 
 ---
 
-### 3. [HIWORK](https://github.com/muhan-memdori/hiwork)
+### 3. Algorithm Study
 >업무 관리 시스템 (팀 프로젝트)  
 >개발 기간: 2020.01.30 ~ 진행중  
 >
