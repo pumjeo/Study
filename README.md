@@ -1,35 +1,42 @@
 ## :pushpin: Study
 ### 1. C / C++ Study
->개발자 커뮤니티 웹사이트 (팀 프로젝트)  
->개발 기간: 2020.10.22 ~ 2020.12.31  
+> C / C++ Study for utilizing the RCpp Armadillo package about Bayesian statistics
+> 
+> Period: 2023.03.01 ~ 2023.05.16  
 >
->기술 스택:  
->Java 11 / Spring MVC / Gradle / MyBatis / Tomcat / AWS / Eclipse  
->MariaDB / MySQL / JSP / JQuery / Ajax / Bootstrap / Figma
->
->[프로젝트 상세 설명](https://github.com/procompiler/developer-village) 참고
+> Programming Language: C / C++
+> 
+> Related link: https://blog.naver.com/pumjeo
 
 ---
 
 ### 2. Data Structure Study
->일정 관리 콘솔 프로그램 (팀 프로젝트)  
->개발 기간: 2020.10.21 ~ 2020.10.23  
+> Data Structure study for understanding the various data structures in computer science
+> 
+> Period: 2023.07.18 ~ 2023.09.07  
 >
->기술 스택:  
->Java 11 / Gradle / Eclipse
->
->[프로젝트 상세 설명](https://github.com/hayeon17kim/hackathon-project#-%EB%82%98%EC%9D%98-%EA%B0%9C%EC%9D%B8-%EB%B9%84%EC%84%9C-nabi-%EF%B8%8F) 참고
+> Programming Language: Python
+> 
+> Related link: https://blog.naver.com/pumjeo
 
 ---
 
 ### 3. Algorithm Study
->업무 관리 시스템 (팀 프로젝트)  
->개발 기간: 2020.01.30 ~ 진행중  
+> Algorithm study for understanding the various algorithms in computer science
+> 
+> Period: 2023.09.21 ~ 2024.04.19  
 >
->기술 스택:  
->Java 11 / Spring Boot 2.4.2 / Gradle / JPA / IntelliJ
->MariaDB / MySQL / Thymeleaf / JQuery / Ajax / Bulma / Figma
+> Programming Language: Python
+> 
+> Related link: https://blog.naver.com/pumjeo
+
+### 4. Deep Learning for Visual Recognition Assignments
+> The class assignments for the graduate school major class (STA9131)
 >
->[프로젝트 상세 설명](https://github.com/muhan-memdori/hiwork) 참고
+> Period: 2023.03.02 ~ 2023.06.20  
+>
+> Programming Language: Pytorch 
+
+---
 
 </br>
